@@ -1,6 +1,9 @@
 
 
 👋 Hi, I'm  Mallayya.Hiremath
+
+
+
  Data Analyst
 🔍 Passionate about turning data into actionable insights using tools like Excel, SQL, Python, and Power BI.
 📊 Skilled in data cleaning, visualization, and dashboard creation to support data-driven decisions.
